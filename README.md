@@ -1,7 +1,7 @@
 # Subodh Adhikari
 
 ## About Me
-Hi, I'm Subodh Adhikari, an MCA student with a keen interest in the world of computers and programming. I love learning new things, especially in the fields of backend development, Java, Cloud Technology, Distributed Computing, and Network Computing.
+Hi, I'm Subodh Adhikari, an MCA student with a keen interest in the world of computers and programming. I love learning new things, especially in the fields of backend development, Java, Cloud Technology, Distributed Computing, LINUX systems and Computer Networks.
 ## Get in Touch
 - **[LinkedIn:](https://www.linkedin.com/in/subodh-adhikari-4b811a296/)**
 - **[Email:](mailto:subodhadhikari2023@outlook.com)**
@@ -12,7 +12,7 @@ Hi, I'm Subodh Adhikari, an MCA student with a keen interest in the world of com
 - **Programming Languages:** Java, Python
 - **Frameworks:** Spring Boot, Spring, Hibernate
 - **Databases:** MySQL, SQL
-- **Cloud & DevOps:** Docker, Kubernetes
+- **Cloud & DevOps:** Docker
 - **Others:** Git, GitHub, Linux (Fedora), Windows 11
 
 ## Education
@@ -26,8 +26,11 @@ Hi, I'm Subodh Adhikari, an MCA student with a keen interest in the world of com
 - **ORM:** Hibernate/JPA
 - **Database:** MySQL
 
-### Other Notable Projects
 ### [CampusConnect:A collaborative learning platform](https://github.com/subodhadhikari2023/CampusConnect)
+- **Framework:** Spring MVC
+- **Template Engine:** Thymeleaf
+- **ORM:** Hibernate/JPA
+- **Database:** MySQL
 
 ## Hobbies
 - Exploring about different network gadgets
