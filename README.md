@@ -30,9 +30,9 @@ Hi, I'm Subodh Adhikari, an MCA student with a keen interest in the world of com
 ### [CampusConnect:A collaborative learning platform](https://github.com/subodhadhikari2023/CampusConnect)
 
 ## Hobbies
-- Playing Cricket
-- Playing Guitar
-- Singing
+- Exploring about different network gadgets
+- Exploring about Linux based operating system and Environment
+- Computer Hardware
 
 
 
