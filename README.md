@@ -8,8 +8,6 @@ I am currently interning with the Department of IT of the Government of Sikkim, 
 I am learning frontend frameworks such as Angular and microservice deployment using Docker to broaden my expertise. Mastering container management using Kubernetes or Docker Compose is my near-term goal.
 
 ## Get in Touch
-- **[LinkedIn](https://www.linkedin.com/in/subodh-adhikari-4b811a296/)**: Connect with me to see my professional journey and network.
-- **[Email](mailto:subodhadhikari2023@outlook.com)**: Feel free to reach out for any collaborations or discussions.
-
-
-
+- **<a href="https://www.linkedin.com/in/subodh-adhikari-4b811a296/" target="_blank" rel="noopener noreferrer">LinkedIn</a>**: Connect with me to see my professional journey and network.
+- **<a href="mailto:subodhadhikari2023@outlook.com" target="_blank" rel="noopener noreferrer">Email</a>**: Feel free to reach out for any collaborations or discussions.
+- **<a href="https://subodhadhikari.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>**: To learn more about me visit my website.
