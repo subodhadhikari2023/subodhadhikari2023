@@ -37,11 +37,13 @@ I integrate AI tooling into my development workflow, enabling rapid adaptation a
 
 | Area | Capabilities |
 |---|---|
-| Full Stack Development | Java/Spring Boot backend, Angular or React frontend, REST API design |
-| Backend & API | Microservices, JWT authentication, Spring Security, Hibernate/JPA |
-| DevOps | Docker, Docker Compose, CI/CD pipelines (GitHub Actions, Jenkins) |
-| Infrastructure | VPS/Linux server setup, deployment automation, AWS |
-| Database | Schema design, MySQL, PostgreSQL, query optimization |
+| Full Stack Development | Java/Spring Boot, Python (Django/Flask/FastAPI), Node.js backends; Angular, React, Next.js frontends |
+| Backend & API | REST APIs, microservices architecture, JWT authentication, Spring Security, Hibernate/JPA |
+| System Design | Distributed systems, API gateway patterns, service decomposition, data modeling |
+| .NET Applications | C# / ASP.NET Core web applications and APIs |
+| DevOps | Docker, Docker Compose, CI/CD pipelines (GitHub Actions, Jenkins), VPS and Linux server management |
+| Infrastructure | AWS, Linux administration (Fedora, Ubuntu, Debian, Pop!_OS, Linux Mint), deployment automation |
+| Database | Relational (MySQL, PostgreSQL), NoSQL (MongoDB, Redis), schema design, query optimization |
 | End-to-End Delivery | Architecture to production — full development cycle ownership |
 
 ---
@@ -52,6 +54,7 @@ I integrate AI tooling into my development workflow, enabling rapid adaptation a
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -62,6 +65,12 @@ I integrate AI tooling into my development workflow, enabling rapid adaptation a
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
@@ -70,8 +79,16 @@ I integrate AI tooling into my development workflow, enabling rapid adaptation a
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -82,10 +99,7 @@ I integrate AI tooling into my development workflow, enabling rapid adaptation a
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**Linux Environment** — 3–4 years of daily use across Fedora, Pop!_OS, Ubuntu, Linux Mint, and Debian.
 
 **In Progress**
 
