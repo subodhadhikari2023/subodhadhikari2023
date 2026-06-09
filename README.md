@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Subodh Adhikari 👋</h1>
+<h1 align="center">Subodh Adhikari</h1>
 
 <p align="center">
-  <b>Full Stack Developer &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; AI-Augmented Builder &nbsp;·&nbsp; Lecturer</b><br/>
-  📍 Kalimpong, India &nbsp;|&nbsp; 💼 Lecturer @ ICFAI University, Sikkim &nbsp;|&nbsp; 🚀 Available for Freelance
+  <b>Full Stack Developer &nbsp;|&nbsp; DevOps &nbsp;|&nbsp; Lecturer</b><br/>
+  Kalimpong, India &nbsp;|&nbsp; ICFAI University, Sikkim &nbsp;|&nbsp; Available for Freelance Engagements
 </p>
 
 <p align="center">
@@ -19,38 +19,34 @@
 
 ---
 
-## About Me
+## About
 
-I build and ship — from a blank repo to a production-ready deployment. My background spans full stack web development, DevOps, and cloud infrastructure, backed by real-world delivery on a **Government of Sikkim** project and academic work at university level.
+I am a full stack developer and DevOps practitioner with hands-on experience across the complete software delivery lifecycle — from requirements and architecture through to containerized production deployment. My work spans backend systems, frontend interfaces, CI/CD pipelines, and cloud infrastructure.
 
-I work with AI as a core tool in my workflow, which means I move fast, adapt to new frameworks quickly, and consistently deliver beyond what a traditional skill list suggests.
+I have delivered production-grade software for the **Department of IT, Government of Sikkim**, and bring the same rigour and clarity to freelance engagements. As a lecturer at ICFAI University, I teach programming, DBMS, and data structures — disciplines that directly inform how I write and structure code.
 
-As a lecturer teaching programming, DBMS, and DSA at ICFAI University, I bring the same clarity and structure I apply in the classroom to writing clean, maintainable code.
+I integrate AI tooling into my development workflow, enabling rapid adaptation across frameworks and consistent delivery on complex requirements.
 
-- 🔭 Currently working on: Full-stack web apps, containerized deployments, CI/CD pipelines
-- 🌱 Learning: Machine Learning with Python, Kubernetes, expanding cloud (AWS)
-- 🤖 Uses AI (Claude) as a development tool — faster iterations, broader coverage
-- 💬 Happy to discuss architecture, APIs, deployment strategy, or code quality
-- 📫 Open to freelance — [reach out](mailto:subodhadhikari2023@outlook.com)
+**Current focus:** Full-stack web applications, containerized deployments, CI/CD automation, and machine learning fundamentals.
+
+**Open to:** Freelance projects — web applications, API development, backend systems, DevOps setup, or end-to-end delivery.
 
 ---
 
-## What I Can Build & Ship For You
+## Services
 
-```
-✅ Full stack web applications (Java backend + Angular/React frontend)
-✅ REST APIs & microservices with auth (JWT, Spring Security)
-✅ Containerized apps with Docker & Docker Compose
-✅ CI/CD pipelines (GitHub Actions, Jenkins)
-✅ VPS / Linux server setup and deployment
-✅ Database design and integration (MySQL, PostgreSQL)
-✅ AWS-based hosting and infrastructure
-✅ Dev-to-prod — I handle the full cycle
-```
+| Area | Capabilities |
+|---|---|
+| Full Stack Development | Java/Spring Boot backend, Angular or React frontend, REST API design |
+| Backend & API | Microservices, JWT authentication, Spring Security, Hibernate/JPA |
+| DevOps | Docker, Docker Compose, CI/CD pipelines (GitHub Actions, Jenkins) |
+| Infrastructure | VPS/Linux server setup, deployment automation, AWS |
+| Database | Schema design, MySQL, PostgreSQL, query optimization |
+| End-to-End Delivery | Architecture to production — full development cycle ownership |
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 **Languages**
 
@@ -91,45 +87,43 @@ As a lecturer teaching programming, DBMS, and DSA at ICFAI University, I bring t
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**Currently Exploring**
+**In Progress**
 
-![TensorFlow](https://img.shields.io/badge/ML_/_AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ML/AI](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### 🏛️ [Internship Management Portal](https://github.com/subodhadhikari2023/Internship-Portal)
-> **Client:** Department of IT, Government of Sikkim
+### [Internship Management Portal](https://github.com/subodhadhikari2023/Internship-Portal)
+**Client:** Department of IT, Government of Sikkim
 
-Digitized the end-to-end internship management process for the state government — replacing manual paper workflows with a fully automated, role-based web platform. 174 commits. Production-grade application.
+A production-grade web platform that digitized the state government's internship management process. Replaced manual, paper-based workflows with a fully automated, role-based system handling applications, document management, progress tracking, and certificate issuance.
 
-**Key features:** Online applications · Status tracking · Document uploads · Automated email notifications · Certificate generation · Admin dashboard
-
-`Angular 14` `Spring Boot` `Spring Security` `Hibernate/JPA` `MySQL` `JWT` `REST API`
+**Stack:** Angular 14 &nbsp;|&nbsp; Spring Boot &nbsp;|&nbsp; Spring Security &nbsp;|&nbsp; Hibernate/JPA &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; JWT &nbsp;|&nbsp; REST API
 
 ---
 
-### 🎓 [CampusConnect](https://github.com/subodhadhikari2023/CampusConnect)
-> **Academic Management Platform**
+### [CampusConnect](https://github.com/subodhadhikari2023/CampusConnect)
+**Academic Management Platform**
 
-Role-based academic platform with dedicated dashboards for Admins, HODs, Faculty, and Students. Centralized resource and workflow management across the institution.
+Role-based academic administration platform with dedicated interfaces for Administrators, HODs, Faculty, and Students. Provides centralized management of academic resources, course assignments, and institutional workflows.
 
-`Spring Boot` `Hibernate/JPA` `Spring Security` `Thymeleaf` `MySQL`
-
----
-
-### 🛒 [E-Commerce Platform](https://github.com/subodhadhikari2023/angular-spring-e-commerce)
-> **Full-Stack Demo**
-
-Full-stack e-commerce application with Angular SPA frontend and Spring Boot REST backend, demonstrating product management, cart, and API-driven architecture.
-
-`Angular` `Spring Boot` `TypeScript` `MySQL`
+**Stack:** Spring Boot &nbsp;|&nbsp; Hibernate/JPA &nbsp;|&nbsp; Spring Security &nbsp;|&nbsp; Thymeleaf &nbsp;|&nbsp; MySQL
 
 ---
 
-## GitHub Stats
+### [E-Commerce Platform](https://github.com/subodhadhikari2023/angular-spring-e-commerce)
+**Full-Stack Application**
+
+Full-stack e-commerce application built with an Angular SPA frontend and a Spring Boot REST backend. Demonstrates product management, cart functionality, and API-driven architecture.
+
+**Stack:** Angular &nbsp;|&nbsp; Spring Boot &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; MySQL
+
+---
+
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subodhadhikari2023&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
@@ -138,10 +132,10 @@ Full-stack e-commerce application with Angular SPA frontend and Spring Boot REST
 
 ---
 
-## Let's Work Together
+## Contact
 
-I'm actively taking on **freelance projects** — web apps, APIs, backend systems, DevOps setup, or full dev-to-prod delivery. If you have a project and need someone who can own the full cycle, let's talk.
+I am available for freelance engagements in web application development, API design, backend systems, DevOps infrastructure, or full-cycle project delivery.
 
-📬 **[subodhadhikari2023@outlook.com](mailto:subodhadhikari2023@outlook.com)**  
-🌐 **[subodhadhikari.netlify.app](https://subodhadhikari.netlify.app)**  
-💼 **[LinkedIn](https://linkedin.com/in/subodh-adhikari-4b811a296)**
+**Email:** [subodhadhikari2023@outlook.com](mailto:subodhadhikari2023@outlook.com)  
+**Portfolio:** [subodhadhikari.netlify.app](https://subodhadhikari.netlify.app)  
+**LinkedIn:** [linkedin.com/in/subodh-adhikari-4b811a296](https://linkedin.com/in/subodh-adhikari-4b811a296)
