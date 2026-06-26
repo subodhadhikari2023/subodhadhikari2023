@@ -18,10 +18,8 @@
 
 I deliver **complete, production-ready applications** — from architecture and API design through to containerized deployment on live servers. One developer, full ownership: secured Spring Boot APIs, Angular or React frontends, Docker packaging, and GitHub Actions CI/CD pipelines.
 
-**Government delivery:** [Internship Management Portal](https://github.com/subodhadhikari2023/Internship-Portal) — Dept. of IT, Government of Sikkim
-**MCA project (live):** [CampusConnect ↗](https://campuss-connect.up.railway.app)
 
----
+
 
 ## Shipped Projects
 
