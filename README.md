@@ -34,7 +34,7 @@ Digitized the state government's internship process — replacing 100% paper-bas
 
 ### [CampusConnect](https://github.com/subodhadhikari2023/CampusConnect) &nbsp;·&nbsp; [Live Demo ↗](https://campuss-connect.up.railway.app)
 
-Multi-role academic platform for Admins, HODs, Teachers, and Students. Containerized with Docker, deployed via GitHub Actions CI/CD pipeline to GHCR and Railway. **194 automated tests** across controller, service, and repository layers.
+MCA mini-project, later extended to production. Multi-role academic platform for Admins, HODs, Teachers, and Students. Containerized with Docker, deployed via GitHub Actions CI/CD pipeline to GHCR and Railway. **194 automated tests** across controller, service, and repository layers.
 
 `Spring Boot` `Thymeleaf` `Hibernate` `MySQL` `Docker` `Docker Compose` `GitHub Actions` `JUnit 5` `GHCR` `Railway`
 
@@ -86,6 +86,17 @@ Multi-role academic platform for Admins, HODs, Teachers, and Students. Container
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 
 > Linux daily driver — 3+ years across Fedora, Pop!\_OS, Ubuntu, and Debian
+
+<!-- PORTFOLIO_SKILLS
+{
+  "Web Applications": ["Angular", "React", "Next.js", "Thymeleaf", "Tailwind CSS", "TypeScript"],
+  "APIs & Backend": ["Spring Boot", "Spring Security", "Hibernate/JPA", "REST API", "JWT", "Flask"],
+  "Deployment & DevOps": ["Docker", "Docker Compose", "GitHub Actions", "GHCR", "Railway", "Vercel", "Linux"],
+  "Data & Storage": ["MySQL", "PostgreSQL", "H2", "Flyway"],
+  "Languages": ["Java", "TypeScript", "JavaScript", "Python", "SQL", "Bash"],
+  "Tools": ["Git", "Maven", "IntelliJ IDEA", "VS Code"]
+}
+-->
 
 ---
 
