@@ -21,21 +21,31 @@ I deliver **complete, production-ready applications** — from architecture and 
 
 
 
-## Shipped Projects
+## Client Work
 
 ### [Internship Management Portal](https://github.com/subodhadhikari2023/Internship-Portal) — Govt. of Sikkim
 
-Digitized the state government's internship process — replacing 100% paper-based workflows with a production role-based system handling applications, document management, progress tracking, and certificate issuance. Currently in active use.
+Digitized the state government's internship process — replacing 100% paper-based workflows with a production role-based system handling applications, document management, progress tracking, and certificate issuance. Delivered to the Department of IT, Government of Sikkim.
 
 `Angular 14` `Spring Boot` `Spring Security` `Hibernate/JPA` `JWT` `MySQL` `REST API`
 
 ---
 
+## Personal Projects
+
 ### [CampusConnect](https://github.com/subodhadhikari2023/CampusConnect) &nbsp;·&nbsp; [Live Demo ↗](https://campuss-connect.up.railway.app)
 
-MCA mini-project, later extended to production. Multi-role academic platform for Admins, HODs, Teachers, and Students. Containerized with Docker, deployed via GitHub Actions CI/CD pipeline to GHCR and Railway. **194 automated tests** across controller, service, and repository layers.
+Started as an MCA mini-project, later extended and deployed to production. Multi-role academic platform for Admins, HODs, Teachers, and Students. Containerized with Docker, deployed via GitHub Actions CI/CD pipeline to GHCR and Railway. **194 automated tests** across controller, service, and repository layers.
 
 `Spring Boot` `Thymeleaf` `Hibernate` `MySQL` `Docker` `Docker Compose` `GitHub Actions` `JUnit 5` `GHCR` `Railway`
+
+---
+
+### [S.C.O.M.P](https://github.com/subodhadhikari2023/SCOMP) — *Python*
+
+A self-contained Python CLI automation framework for personalized cold email outreach targeting freelance and job opportunities. Demonstrates applied Python across the complete pipeline — search engine querying, multi-strategy web scraping (httpx + Playwright), regex-based email extraction, YAML-driven template copywriting, and regulated drip dispatch through Outlook Web. All leads and statuses are tracked in a local SQLite database with a live Rich terminal dashboard. Fully offline; no third-party LLM or paid API required. Containerized and published to GHCR as a public image.
+
+`Python 3.14` `httpx` `BeautifulSoup4` `Playwright` `SQLite` `Rich` `Docker`
 
 ---
 
