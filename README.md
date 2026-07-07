@@ -58,17 +58,17 @@ A self-contained Python CLI automation framework for personalized cold email out
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 
 **Backend & APIs**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 **Frontend**
 
@@ -82,7 +82,7 @@ A self-contained Python CLI automation framework for personalized cold email out
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GHCR](https://img.shields.io/badge/GHCR-181717?style=flat-square&logo=github&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -96,16 +96,14 @@ A self-contained Python CLI automation framework for personalized cold email out
 
 > Linux daily driver — 3+ years across Fedora, Pop!\_OS, Ubuntu, and Debian
 
-<!-- PORTFOLIO_SKILLS
-{
-  "Web Applications": ["Angular", "React", "Next.js", "Thymeleaf", "Tailwind CSS", "TypeScript"],
-  "APIs & Backend": ["Spring Boot", "Spring Security", "Hibernate/JPA", "REST API", "JWT", "Flask"],
-  "Deployment & DevOps": ["Docker", "Docker Compose", "GitHub Actions", "GHCR", "Railway", "Vercel", "Linux"],
-  "Data & Storage": ["MySQL", "PostgreSQL", "H2", "Flyway"],
-  "Languages": ["Java", "TypeScript", "JavaScript", "Python", "SQL", "Bash"],
-  "Tools": ["Git", "Maven", "IntelliJ IDEA", "VS Code"]
-}
--->
+
+---
+
+### [Aama Homestay](https://github.com/subodhadhikari2023/aama-homestay)
+
+A custom direct-booking website for Aama Homestay, Kurseong (Darjeeling Hills) — eliminates OTA commissions for a real mountain property. Built with Next.js 14 App Router, TypeScript, and Tailwind CSS. Containerized with Docker and deployed to Vercel.
+
+`Next.js 14` `React` `TypeScript` `Tailwind CSS` `Docker` `Vercel`
 
 ---
 
